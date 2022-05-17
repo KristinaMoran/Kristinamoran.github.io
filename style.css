@@ -28,7 +28,7 @@ header {
 footer {
   grid-column: 1 / 4;
   /* grid-area: footer; */
-  text-align: end;
+  text-align: center;
   /* background-color: blanchedalmond; */
   font-size: small;
   margin: 0;
