@@ -13,6 +13,11 @@ body {
   gap: 5px;
   height: 90vh;
 }
+.navbar {
+  grid-column: 1 / 4;
+  text-align: left;
+  font-size: 2em;
+}
 .navbar-brand {
   color: #fafdfe;
   font-size: 1em;
@@ -20,11 +25,11 @@ body {
 h2 {
   color: #fafdfe;
 }
-header {
+/* header {
   grid-column: 1 / 4;
   text-align: left;
   font-size: 2em;
-}
+} */
 footer {
   grid-column: 1 / 4;
   /* grid-area: footer; */
