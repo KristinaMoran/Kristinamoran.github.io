@@ -22,9 +22,9 @@ body {
   color: #fafdfe;
   font-size: 1em;
 }
-/* .navbar-toggle-icon !important {
-  background-color: #ceeffa;
-} */
+.navbar-toggle-icon {
+  background-color: #ceeffa !important;
+}
 h2 {
   color: #fafdfe;
 }
