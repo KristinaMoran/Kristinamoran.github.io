@@ -22,6 +22,9 @@ body {
   color: #fafdfe;
   font-size: 1em;
 }
+.navbar-toggle-icon {
+  background-color: #ceeffa;
+}
 h2 {
   color: #fafdfe;
 }
@@ -44,11 +47,9 @@ footer {
 header,
 aside,
 article {
-  font: Lucida;
-  /* font-size: 2em; */
+  font-family: Lucida;
   min-height: 100%;
   display: grid;
-  grid-template-rows: auto 1 fr auto;
   grid-template-columns: 100%;
 }
 .navbar {
